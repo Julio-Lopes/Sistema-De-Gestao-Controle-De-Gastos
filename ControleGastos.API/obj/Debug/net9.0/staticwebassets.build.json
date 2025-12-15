@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "M2gi6eiGCoM5/AR8uMxrwoxoU54lBIpzyz00omTXrko=",
+  "Source": "ControleGastos.API",
+  "BasePath": "_content/ControleGastos.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
