@@ -78,6 +78,7 @@ npm run dev
 ```
 
 O frontend estará disponível em `http://localhost:5173`.
+Para alterar a url da api acesse o arquivo /services/api.ts e altere a variavel API_URL.
 
 ## 📦 Build para Produção
 
