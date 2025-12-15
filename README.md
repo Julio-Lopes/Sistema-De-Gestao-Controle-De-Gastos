@@ -2,7 +2,7 @@
 
 Sistema web fullstack para gerenciamento de despesas pessoais e categorização de transações financeiras.
 
-## 🚀 Tecnologias
+## Tecnologias
 
 ### Backend
 - **.NET 9.0** - API RESTful
